@@ -1,2 +1,0 @@
-# Appointment
-Appointment Portal
